@@ -1,0 +1,4 @@
+Nome: Garfo
+Material: Aluminio
+Cor: Prateado
+Estado de uso: Mal lavado (odor forte)
