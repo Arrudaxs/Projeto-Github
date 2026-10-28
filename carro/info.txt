@@ -3,5 +3,4 @@ Motor: V8 biturbo de 5.0 litros (5.065 cm³) com virabrequim plano de 180 graus.
 Velocidade máxima projetada: Superior a 500 km/h (teoricamente calculada pela engenharia da marca)
 Modificações: Nenhuma
 Cor: Azul Escuro
-Placa: BUS924O1
-
+Porta luvas: Cueca usada
